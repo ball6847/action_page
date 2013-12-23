@@ -5,25 +5,15 @@
 
     <meta charset="utf-8">
 
-    <title>Abstract Codify</title>
+    <title>Syslike - Maintenance Mode</title>
 
     <!-- Behavioral Meta Data -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
     <!-- Core Meta Data -->
-    <meta name="description" content="abstract codify code 2012-2013, Abstractcodify.com All Rights Reserved." />
-    <meta name="keywords" content="abstract codify code " />
-    <meta name="author" content="abstract codify code">
 
     <!-- Open Graph Meta Data -->
-    <meta property="og:description" content="Abstractcodify.com All Rights Reserved.">
-    <meta property="og:image" content="https://secure.gravatar.com/avatar/65139e11d1e6b263135e95310b593a95?s=80">
-    <meta property="og:site_name" content="Abstract Codify">
-    <meta property="og:title" content="Abstract Codify">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://www.abstractcodify.com">
-
     <!-- Humans -->
     <!-- <link rel="author" href="humans.txt" /> -->
 
@@ -61,7 +51,7 @@
                     </li>
                 </ul>
             </li>
-            <li class="layer" data-depth="0.20"><h1 class="title"><em>Ab</em>stract codify</h1></li>
+            <li class="layer" data-depth="0.20"><h1 class="title"><em>Syslike</em> กำลังอับเดทเซิร์ฟเวอร์<br> รอแปปนะครับวัยรุ่น</h1></li>
             <li class="layer" data-depth="0.30">
                 <ul class="rope depth-30">
                     <li><img src="js_page/views/script/rope.png" alt="Rope"></li>
@@ -184,6 +174,5 @@
 
 
     </script>
-<a href="https://plus.google.com/110954411429417189705" rel="publisher">Google+</a>
 </body>
 </html>
